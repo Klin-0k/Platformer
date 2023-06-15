@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.973,=H:\работы\инфа\initnov\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.265,H:\программы\RAD\Unit1.dfm=H:\работы\инфа\initnov\initnov.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.132,H:\работы\инфа\initnov\initnov.dfm=H:\работы\инфа\initnov\platformer.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.132,H:\работы\инфа\initnov\initnov.cpp=H:\работы\инфа\initnov\platformer.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.657,=H:\работы\инфа\initnov\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.825,=H:\работы\инфа\initnov\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.375,=H:\работы\инфа\Project\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.265,H:\программы\RAD\Unit1.h=H:\работы\инфа\initnov\initnov.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.782,=H:\работы\инфа\Project\mmap.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.561,=H:\работы\инфа\Project\blocks.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.030,=H:\работы\инфа\Project\mobject.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.352,=H:\работы\инфа\Project\characters.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.940,=H:\работы\инфа\Project\mbutton.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.355,=H:\работы\инфа\Project\forms.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.224,=H:\программы\RAD\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.798,=H:\программы\RAD\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.145,=H:\работы\инфа\Project\functions.hpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.132,H:\работы\инфа\initnov\initnov.h=H:\работы\инфа\initnov\platformer.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.701,H:\работы\инфа\initnov\initnovPCH1.h=H:\работы\инфа\initnov\platformerPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.882,=H:\программы\RAD\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.908,=H:\программы\RAD\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.283,H:\программы\RAD\Project1.cbproj=H:\работы\инфа\initnov\initnov1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,H:\программы\RAD\Project1PCH1.h=H:\работы\инфа\initnov\initnovPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.165,H:\работы\инфа\initnov\initnov1.cbproj=H:\работы\инфа\initnov\platformer1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.265,H:\программы\RAD\Unit1.cpp=H:\работы\инфа\initnov\initnov.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="functions.hpp"/>
+    <File Path="mobject.hpp"/>
+    <File Path="mbutton.hpp"/>
+    <File Path="forms.hpp"/>
+    <File Path="characters.hpp"/>
+    <File Path="blocks.hpp"/>
+    <File Path="mmap.hpp"/>
+    <File Path="platformer.cpp"/>
+    <File Path="platformer.cpp"/>
+    <File Path="platformer.dfm"/>
+    <File Path="platformer.h"/>
+    <File Path="platformer1.cpp"/>
+    <File Path="platformerPCH1.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
